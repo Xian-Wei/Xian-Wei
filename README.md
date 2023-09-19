@@ -1,1 +1,1 @@
-![](https://media.forgecdn.net/avatars/483/46/637782425178608071.png)
+![](https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/Stelle_Sticker_02.png/revision/latest?cb=20230420195524)
