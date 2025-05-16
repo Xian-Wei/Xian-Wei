@@ -1,4 +1,4 @@
-# Greetings, I'm [Xian-Wei](https://www.zhuxw.com/).
+# Hi I'm [Xian-Wei](https://www.zhuxw.com/).
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xian-Wei&theme=tokyonight" alt="mystreak"/>
 
