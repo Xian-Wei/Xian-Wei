@@ -1,7 +1,5 @@
 # Hi I'm [Xian-Wei](https://www.zhuxw.com/).
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xian-Wei&theme=tokyonight" alt="mystreak"/>
-
 ![Xian-Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xian-Wei&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xian-Wei&langs_count=8)
